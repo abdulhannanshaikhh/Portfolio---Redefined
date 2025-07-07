@@ -1,8 +1,7 @@
 # 🌐 Abdul Hannan – Developer Portfolio Website
 
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
-![Built With](https://img.shields.io/badge/Built%20With-HTML%2C%20CSS%2C%20JavaScript%2C%20jQuery-blueviolet)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![Built With](https://img.shields.io/badge/Built%20With-HTML%2C%20CSS%2C%20JavaScript-blueviolet)
 
 > A clean, responsive, and feature-rich personal portfolio showcasing my work, experience, skills, certifications, education, and projects as a Software Engineer.
 
@@ -10,14 +9,14 @@
 
 ## 📘 About the Project
 
-This repository hosts my personal **developer portfolio**, a comprehensive web-based showcase of my professional background as a **Software Engineer**. It is designed to give recruiters, collaborators, and peers an overview of my:
+This repository hosts my personal **professional portfolio**, a comprehensive web-based showcase of my professional background as a **Software Engineer**. It is designed to give recruiters, collaborators, and peers an overview of my:
 
 - Technical skills and certifications  
 - Work experience and project contributions  
 - Educational background and coursework  
 - Achievements and research publications  
 
-Built with **HTML, CSS, JavaScript, jQuery**, and enhanced by frontend libraries like **ScrollReveal**, **Typed.js**, and **VanillaTilt**, the portfolio is fully responsive and animated for modern web presentation.
+Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive and animated for modern web presentation.
 
 ---
 
@@ -32,12 +31,9 @@ Built with **HTML, CSS, JavaScript, jQuery**, and enhanced by frontend libraries
 
 ---
 
-## 🧑‍💻 Live Website
+## 🧑‍💻 Live Portfolio
 
-🔗 **[Portfolio Website](https://abdulhannanshaikhh.github.io)**  
-📄 **[Resume](https://drive.google.com/file/d/1Ll8_Va90vuiUQGJs0LMh-HrhEmrWHuAr/view?usp=sharing)**
+🔗 **[Portfolio Website](https://abdulhannanshaikhh.github.io/Portfolio---Redefined/)**  
 
 ---
-
-## 📁 Project Structure
 
