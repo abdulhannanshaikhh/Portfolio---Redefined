@@ -845,25 +845,6 @@ section {
   font-family: "Nunito", sans-serif;
 }
 
-.certifications .box .content .btn {
-  margin-top: 1rem;
-  padding: 0.8rem 1.6rem;
-  background: linear-gradient(90deg, black, purple 100%);
-  color: #fff;
-  border-radius: 0.4rem;
-  font-size: 1.1rem;
-  font-weight: 600;
-  text-decoration: none;
-  transition: background 0.2s, box-shadow 0.2s;
-  box-shadow: 0 2px 8px rgba(74, 0, 224, 0.10);
-  display: inline-block;
-}
-
-.certifications .box .content .btn:hover {
-  background: linear-gradient(90deg, purple 0%, black 100%);
-  box-shadow: 0 4px 16px rgba(74, 0, 224, 0.18);
-  color: #fff;
-}
 
 /* =========================
    Skills Section (Flex, No Progress)
